@@ -35,3 +35,5 @@
 - 《JavaScript权威指南》
 - 《Secrets of the JavaScript Ninja》
 - 《How JavaScript Works》
+- 《高性能 Javascript》
+- 《Javascript 设计模式与开发实践》
